@@ -26,7 +26,7 @@
 
 <div align=center><h2>Contact Me</h2></div>
 
-![Portfilio](https://img.shields.io/badge/vimeo-orange.svg?logo=velog&logoColor=white&style=for-the-badge)
+![velog](https://img.shields.io/badge/vimeo-orange.svg?logo=vimeo&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/awazon-orange.svg?logo=amazon&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/awazon-orange.svg?logo=amazon&logoColor=white&style=for-the-badge)
 
