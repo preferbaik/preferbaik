@@ -6,15 +6,11 @@
 
 <div align=center><h2>Backend</h2></div>
 
-<div algin=center>
-  
-![Python](https://img.shields.io/badge/python-purple.svg?logo=python&logoColor=white&style=for-the-badge)
+<div algin=center>![Python](https://img.shields.io/badge/python-purple.svg?logo=python&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django-green.svg?logo=django&logoColor=white&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/typescript-blue.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![Nestjs](https://img.shields.io/badge/nestjs-black.svg?logo=nestjs&logoColor=red&style=for-the-badge)
-![Javascript](https://img.shields.io/badge/javascript-yellow.svg?logo=javascript&logoColor=black&style=for-the-badge)
-  
-</div>
+![Javascript](https://img.shields.io/badge/javascript-yellow.svg?logo=javascript&logoColor=black&style=for-the-badge)</div>
   
 <div align=center><h2>Devops</h2></div>
 
@@ -26,8 +22,6 @@
 
 <div align=center><h2>Contact Me</h2></div>
 
-<div align=center>[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool) [![GmailBadge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:baik9261@gmail.com)</div>
-<div align=center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)</div>
 
 
 
