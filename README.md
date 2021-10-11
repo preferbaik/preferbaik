@@ -7,6 +7,11 @@
 ![Typescript](https://img.shields.io/badge/typescript-blue.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-blue.svg?logo=python&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django-blue.svg?logo=django&logoColor=white&style=for-the-badge)
+![Mysql](https://img.shields.io/badge/mysql-blue.svg?logo=mysql&logoColor=white&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/javascript-blue.svg?logo=javascript&logoColor=white&style=for-the-badge)
+![ELK-stack](https://img.shields.io/badge/elkstack-blue.svg?logo=elkstack&logoColor=white&style=for-the-badge)
+
+
 
 
 
