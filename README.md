@@ -9,7 +9,8 @@
 ![Django](https://img.shields.io/badge/django-blue.svg?logo=django&logoColor=white&style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/mysql-blue.svg?logo=mysql&logoColor=white&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/javascript-blue.svg?logo=javascript&logoColor=white&style=for-the-badge)
-![ELK-stack](https://img.shields.io/badge/elkstack-blue.svg?logo=elasticksearch&logoColor=white&style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-blue.svg?logo=elasticsearch&logoColor=white&style=for-the-badge)
+
 
 
 
