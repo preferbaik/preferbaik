@@ -26,7 +26,7 @@
 
 <div align=center><h2>Contact Me</h2></div>
 
-![portfolio](https://img.shields.io/badge/portfolio-red.svg?logo=Photopea&logoColor=white&style=for-the-badge)
+![portfolio](https://img.shields.io/badge/portfolio-red.svg?logo=Photopea&logoColor=white&style=for-the-badge&link=https://velog.io/@baik9261)
 ![velog](https://img.shields.io/badge/velog-green.svg?logo=vimeo&logoColor=white&style=for-the-badge)
 ![gmail](https://img.shields.io/badge/mail-orange.svg?logo=gmail&logoColor=white&style=for-the-badge)
 
