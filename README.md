@@ -3,7 +3,9 @@
 <div align=center><h1>👋 Hi, I’m @Sunhobaik <br> I'm Back - End Developer </h1></div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=preferbaik)](https://github.com/anuraghazra/github-readme-stats)
-<div align=center><h2>Tech - Stack </h2>
+
+<div align=center><h2>Tech - Stack </h2></div>
+<div align=center>
 ![Python](https://img.shields.io/badge/python-purple.svg?logo=python&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django-green.svg?logo=django&logoColor=white&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/typescript-blue.svg?logo=typescript&logoColor=white&style=for-the-badge)
