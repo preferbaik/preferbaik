@@ -25,7 +25,7 @@
 <div align="center"><a target="_blank"><img src="https://img.shields.io/badge/mysql-purple.svg?logo=mysql&logoColor=orange&style=for-the-badge"/></a> <a target="_blank"><img src="https://img.shields.io/badge/elasticsearch-grey.svg?logo=elasticsearch&logoColor=white&style=for-the-badge"/></a> <a target="_blank"><img src="https://img.shields.io/badge/docker-blue.svg?logo=docker&logoColor=white&style=for-the-badge"/></a> <a target="_blank"><img src="https://img.shields.io/badge/awazon-orange.svg?logo=amazon&logoColor=white&style=for-the-badge"/></a> </div>
 
 
-<div align=center><h2>Contact Me</h2></div>
+<div align=center><h2>About Me</h2></div>
 <div align="center"><a href="https://www.preferbaik.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-red.svg?logo=Photopea&logoColor=white&style=for-the-badge"/></a> <a href="https://velog.io/@baik9261" target="_blank"><img src="https://img.shields.io/badge/velog-green.svg?logo=vimeo&logoColor=white&style=for-the-badge"/></a></div>
 
 
