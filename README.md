@@ -7,11 +7,13 @@
 <div align=center><h2>Backend</h2></div>
 
 <div algin=center>
+  
 ![Python](https://img.shields.io/badge/python-purple.svg?logo=python&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/django-green.svg?logo=django&logoColor=white&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/typescript-blue.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![Nestjs](https://img.shields.io/badge/nestjs-black.svg?logo=nestjs&logoColor=red&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/javascript-yellow.svg?logo=javascript&logoColor=black&style=for-the-badge)
+  
 </div>
   
 <div align=center><h2>Devops</h2></div>
