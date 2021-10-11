@@ -25,8 +25,7 @@
 
 
 <div align=center><h2>Contact Me</h2></div>
-
-<a href="https://www.preferbaik.com/" target="_blank" algin=center><img src="https://img.shields.io/badge/portfolio-red.svg?logo=Photopea&logoColor=white&style=for-the-badge"/></a><a href="https://velog.io/@baik9261" target="_blank"><img src="https://img.shields.io/badge/velog-green.svg?logo=vimeo&logoColor=white&style=for-the-badge"/></a>
+<div align="center"><a href="https://www.preferbaik.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-red.svg?logo=Photopea&logoColor=white&style=for-the-badge"/></a><a href="https://velog.io/@baik9261" target="_blank"><img src="https://img.shields.io/badge/velog-green.svg?logo=vimeo&logoColor=white&style=for-the-badge"/></a></div>
 
 
 
