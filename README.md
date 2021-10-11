@@ -13,7 +13,6 @@
 ![Typescript](https://img.shields.io/badge/typescript-blue.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![Nestjs](https://img.shields.io/badge/nestjs-black.svg?logo=nestjs&logoColor=red&style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/javascript-yellow.svg?logo=javascript&logoColor=black&style=for-the-badge)
-<a href="https://velog.io/@baik9261" target="_blank"><img src="https://img.shields.io/badge/javascript-yellow.svg?logo=javascript&logoColor=black&style=for-the-badge"/></a>
 
 </div>
   
@@ -28,7 +27,8 @@
 <div align=center><h2>Contact Me</h2></div>
 
 ![portfolio](https://img.shields.io/badge/portfolio-red.svg?logo=Photopea&logoColor=white&style=for-the-badge&link=https://velog.io/@baik9261)
-![velog](https://img.shields.io/badge/velog-green.svg?logo=vimeo&logoColor=white&style=for-the-badge)
+<a href="https://velog.io/@baik9261" target="_blank"><img src="https://img.shields.io/badge/velog-green.svg?logo=vimeo&logoColor=white&style=for-the-badge"/></a>
+<!-- ![velog](https://img.shields.io/badge/velog-green.svg?logo=vimeo&logoColor=white&style=for-the-badge) -->
 ![gmail](https://img.shields.io/badge/mail-orange.svg?logo=gmail&logoColor=white&style=for-the-badge)
 
 
