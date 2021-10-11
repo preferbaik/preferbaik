@@ -2,7 +2,7 @@
 
 <div align=center><h1>👋 Hi, I’m @Sunhobaik <br> I'm Back - End Developer </h1></div>
 
-[![preferbaik's github stats](https://github-readme-stats.vercel.app/api?username=preferbaik)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">[![preferbaik's github stats](https://github-readme-stats.vercel.app/api?username=preferbaik)](https://github.com/anuraghazra/github-readme-stats)</div>
 
 
 <!-- ![Python](https://img.shields.io/badge/python-purple.svg?logo=python&logoColor=white&style=for-the-badge) -->
