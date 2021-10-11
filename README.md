@@ -26,9 +26,10 @@
 
 <div align=center><h2>Contact Me</h2></div>
 
-![velog](https://img.shields.io/badge/velog-orange.svg?logo=vimeo&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/awazon-orange.svg?logo=amazon&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/awazon-orange.svg?logo=amazon&logoColor=white&style=for-the-badge)
+![portfolio](https://img.shields.io/badge/portfolio-red.svg?logo=Photopea&logoColor=white&style=for-the-badge)
+![velog](https://img.shields.io/badge/velog-green.svg?logo=vimeo&logoColor=white&style=for-the-badge)
+![gmail](https://img.shields.io/badge/mail-orange.svg?logo=gmail&logoColor=white&style=for-the-badge)
+
 
 
 
