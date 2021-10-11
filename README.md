@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Preferbaik&fontSize=70&desc=Back%20End%20Developer)
 
 <div align=center><h1>👋 Hi, I’m @Sunhobaik <br> I'm Back - End Developer </h1></div>
-
-<div align="center"><a target="_blank">[![preferbaik's github stats](https://github-readme-stats.vercel.app/api?username=preferbaik)](https://github.com/anuraghazra/github-readme-stats)</a></div>
+<!-- [![preferbaik's github stats](https://github-readme-stats.vercel.app/api?username=preferbaik)](https://github.com/anuraghazra/github-readme-stats) -->
+<div align="center"><a target="_blank"><img src="(https://github-readme-stats.vercel.app/api?username=preferbaik)"/></a></div>
 
 
 <!-- ![Python](https://img.shields.io/badge/python-purple.svg?logo=python&logoColor=white&style=for-the-badge) -->
