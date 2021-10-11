@@ -4,4 +4,4 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=preferbaik)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-![Nestjs](https://img.shields.io/badge/rust-black.svg?logo=rust&logoColor=white&style=for-the-badge)
+![Nestjs](https://img.shields.io/badge/rust-black.svg?logo=nestjs&logoColor=white&style=for-the-badge)
