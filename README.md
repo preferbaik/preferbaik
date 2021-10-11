@@ -11,7 +11,7 @@
 ![Mysql](https://img.shields.io/badge/mysql-purple.svg?logo=mysql&logoColor=orange&style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-grey.svg?logo=elasticsearch&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-blue.svg?logo=docker&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/awazon-blue.svg?logo=amazon&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/awazon-orange.svg?logo=amazon&logoColor=white&style=for-the-badge)
 
 
 
