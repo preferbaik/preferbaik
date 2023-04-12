@@ -3,7 +3,7 @@
 
 
 
-<div align=center><h1>👋 Hi, I’m SunhoBaik, DevOps & Back-End Engineer </h1></div>
+<div align=center><h1>👋 Hi, I’m SunhoBaik, SRE/DevOps Engineer </h1></div>
 <!-- [![preferbaik's github stats](https://github-readme-stats.vercel.app/api?username=preferbaik)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center"><a target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=preferbaik"/></a></div>
 
